@@ -1,5 +1,5 @@
-# [AK-CHAT-SERVER](https://github.com/ak01redwan/ak-chat-server)
-ak-chat-server is a web-based text [chat room](https://ak-chat-server.web.app/) where all followers and friends of [AK01REDWAN](https://github.com/ak01redwan/) can participate in engaging conversations. It functions as a group chat room that welcomes anyone who accepts and adheres to its policies. Moreover, it serves as the platform where I share my latest news and updates, you can [try it: https://ak-chat-server.web.app/](https://ak-chat-server.web.app/).
+# [MOTAZ-CHAT](https://github.com/ma01taleb/motaz-chat)
+motaz-chat web chat room forked from ak-chat-server is a web-based text [chat room](https://ak-chat-server.web.app/) where all followers and friends of [AK01REDWAN](https://github.com/ak01redwan/) can participate in engaging conversations. It functions as a group chat room that welcomes anyone who accepts and adheres to its policies. Moreover, it serves as the platform where I share my latest news and updates, you can [try it: https://ak-chat-server.web.app/](https://ak-chat-server.web.app/).
 
 # NOTE!!!: if you want the mobile code, You can click [THIS: (AK-CHAT-MOBILE-APP)](https://github.com/ak01redwan/ak-chat-mobile-app)
 
