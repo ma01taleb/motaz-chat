@@ -1,6 +1,5 @@
 {
   "hosting": {
-    "site": "almotaz",  
     "public": "build",
     "ignore": [
       "firebase.json",

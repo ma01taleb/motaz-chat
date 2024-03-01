@@ -1,5 +1,5 @@
 # [MOTAZ-CHAT](https://github.com/ma01taleb/motaz-chat)
-motaz-chat is a web-based text chat room named "[Al-Motaz](https://almotaz.web.app/)" where all followers and friends of [AL-MOTAZ](https://almotaz.web.app/) can participate in engaging conversations. It functions as a group chat room that welcomes anyone who accepts and adheres to its policies. Moreover, it serves as the platform where I share my latest news and updates.
+motaz-chat is a web-based text chat room named "[Al-Motaz](https://almotaz-chat.web.app/)" where all followers and friends of [AL-MOTAZ](https://almotaz-chat.web.app/) can participate in engaging conversations. It functions as a group chat room that welcomes anyone who accepts and adheres to its policies. Moreover, it serves as the platform where I share my latest news and updates, try it on[[AL-MOTAZ](https://almotaz-chat.web.app/)](https://almotaz-chat.web.app/)
 
 ## Available Scripts
 
